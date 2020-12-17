@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TV8" tvg-name="TV8" tvg-logo="https://tv8.md/wp-content/uploads/2020/07/logo-tv8-new-2.png" group-title="Basarabia",TV8
+https://live1.cdn.tv8.md/TV7/tracks-v1a1/mono.m3u8?token=875f2e9958bc98bc5898db5b0420c2ef29c5be04
