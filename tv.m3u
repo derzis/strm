@@ -1,3 +1,17 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="TV8" tvg-name="TV8" tvg-logo="https://tv8.md/wp-content/uploads/2020/07/logo-tv8-new-2.png" group-title="Basarabia",TV8
-https://live1.cdn.tv8.md/TV7/tracks-v1a1/mono.m3u8?token=875f2e9958bc98bc5898db5b0420c2ef29c5be04
+https://live2.cdn.tv8.md/TV7/tracks-v1a1/mono.m3u8?token=279f18ae42db172f8778a23e69a7a2dd3cc86c82
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://tv8.md/wp-content/uploads/2020/07/logo-tv8-new-2.png" group-title="Basarabia",Moldova 1
+https://bit.ly/3jXpmya
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://tv8.md/wp-content/uploads/2020/07/logo-tv8-new-2.png" group-title="Basarabia",Jurnal TV
+https://bit.ly/3BNdG7D
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://tv8.md/wp-content/uploads/2020/07/logo-tv8-new-2.png" group-title="Basarabia",NTV Moldova
+https://bit.ly/3w6jGH3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://tv8.md/wp-content/uploads/2020/07/logo-tv8-new-2.png" group-title="Basarabia",N4 Moldova
+https://bit.ly/3bv3NRd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://tv8.md/wp-content/uploads/2020/07/logo-tv8-new-2.png" group-title="Basarabia",TVC 21
+https://bit.ly/3jXJHUe
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://tv8.md/wp-content/uploads/2020/07/logo-tv8-new-2.png" group-title="Basarabia",Noroc TV
+https://bit.ly/3w5pSiF
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://tv8.md/wp-content/uploads/2020/07/logo-tv8-new-2.png" group-title="Basarabia",REN TV
+https://bit.ly/3xBuw7c
