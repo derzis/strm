@@ -3,6 +3,10 @@
 https://live2.cdn.tv8.md/TV7/tracks-v1a1/mono.m3u8?token=279f18ae42db172f8778a23e69a7a2dd3cc86c82
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://tv8.md/wp-content/uploads/2020/07/logo-tv8-new-2.png" group-title="Basarabia",Moldova 1
 https://bit.ly/3jXpmya
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://tv8.md/wp-content/uploads/2020/07/logo-tv8-new-2.png" group-title="Basarabia",Moldova 1 (S2)
+https://live.trm.md/live/M1Mlive/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://tv8.md/wp-content/uploads/2020/07/logo-tv8-new-2.png" group-title="Basarabia",Moldova 2
+https://live.trm.md/live/M2Mlive/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://tv8.md/wp-content/uploads/2020/07/logo-tv8-new-2.png" group-title="Basarabia",Jurnal TV
 https://bit.ly/3BNdG7D
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://tv8.md/wp-content/uploads/2020/07/logo-tv8-new-2.png" group-title="Basarabia",NTV Moldova
