@@ -3,7 +3,7 @@
 https://live.cdn.tv8.md/TV7/tracks-v2a1/mono.m3u8?token=739c72f679f7ec18e61cb23c282e357ec3c16065
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.arax.md/assets/channels/280.png" group-title="Basarabia",Publika TV
 https://livebeta.publika.md/LIVE/P/1000.m3u
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://picon-13398.kxcdn.com/moldova1md.jpg" group-title="Basarabia",Moldova 1 (S2)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://picon-13398.kxcdn.com/moldova1md.jpg" group-title="Basarabia",Moldova 1
 https://live.trm.md/live/M1Mlive/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://picon-13398.kxcdn.com/moldova2md.jpg" group-title="Basarabia",Moldova 2
 https://live.trm.md/live/M2Mlive/playlist.m3u8
@@ -23,3 +23,5 @@ https://bit.ly/3w5pSiF
 https://bit.ly/3xBuw7c
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://btv.md/wp-content/uploads/2018/11/BTV.png" group-title="Basarabia",Bălți TV
 https://hls.btv.md/hls/live2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://picon-13398.kxcdn.com/moldova1md.jpg" group-title="Basarabia",TEST
+https://www.youtube.com/watch?v=OstwwN2fyiU&list=PLy_yQY87pm8oNu6M5qSaSaRz0E-umCyyJ&index=1
