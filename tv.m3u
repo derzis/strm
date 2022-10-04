@@ -1,12 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="TV8" tvg-name="TV8" tvg-logo="https://tv8.md/wp-content/uploads/2020/07/logo-tv8-new-2.png" group-title="Basarabia",TV8
-https://live.cdn.tv8.md/TV7/tracks-v2a1/mono.m3u8?token=739c72f679f7ec18e61cb23c282e357ec3c16065
+https://live3.cdn.tv8.md/TV7/tracks-v1a1/mono.m3u8?token=9d28198e594206a879ce0b77b9a715040de9042c
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.arax.md/assets/channels/280.png" group-title="Basarabia",Publika TV
 https://livebeta.publika.md/LIVE/P/1000.m3u
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://picon-13398.kxcdn.com/moldova1md.jpg" group-title="Basarabia",Moldova 1
-https://live.trm.md/live/M1Mlive/playlist.m3u8
+https://stream.trm.md/static/streaming-playlists/hls/dd7acba9-2151-4415-8751-5d08a342340c/0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://picon-13398.kxcdn.com/moldova2md.jpg" group-title="Basarabia",Moldova 2
-https://live.trm.md/live/M2Mlive/playlist.m3u8
+https://stream.trm.md/static/streaming-playlists/hls/7d4704a4-71c9-4eab-b1dc-6dd56449b7e2/0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://picon-13398.kxcdn.com/jurnaltvmd.jpg" group-title="Basarabia",Jurnal TV
 https://live.cdn.jurnaltv.md/JurnalTV_HD/index.m3u8?token=e091fb32a968590f1c4db1b566ba490f50abc815
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://picon-13398.kxcdn.com/jurnaltvmd.jpg" group-title="Basarabia",Jurnal TV
@@ -24,4 +24,4 @@ https://bit.ly/3xBuw7c
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://btv.md/wp-content/uploads/2018/11/BTV.png" group-title="Basarabia",Bălți TV
 https://hls.btv.md/hls/live2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://picon-13398.kxcdn.com/moldova1md.jpg" group-title="Basarabia",TEST
-https://www.youtube.com/watch?v=OstwwN2fyiU&list=PLy_yQY87pm8oNu6M5qSaSaRz0E-umCyyJ&index=1
+https://www.youtube.com/watch?v=OstwwN2fyiU
