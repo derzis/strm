@@ -4,7 +4,7 @@ https://live1.cdn.tv8.md/TV7/tracks-v1a1/mono.m3u8?token=9d28198e594206a879ce0b7
 #EXTINF:-1 tvg-id="TV8" tvg-name="TV8" tvg-logo="https://tv8.md/wp-content/uploads/2020/07/logo-tv8-new-2.png" group-title="Basarabia",TV8
 https://bit.ly/3jF7jw4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.arax.md/assets/channels/280.png" group-title="Basarabia",Publika TV
-https://livebeta.publika.md/LIVE/P/1000.m3u
+https://bit.ly/3JHf2q2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://picon-13398.kxcdn.com/moldova1md.jpg" group-title="Basarabia",Moldova 1
 https://stream.trm.md/static/streaming-playlists/hls/dd7acba9-2151-4415-8751-5d08a342340c/0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://picon-13398.kxcdn.com/moldova2md.jpg" group-title="Basarabia",Moldova 2
@@ -15,8 +15,12 @@ https://bit.ly/3desEgj
 https://bit.ly/3BNdG7D
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://picon-13398.kxcdn.com/ntvmoldovamd.jpg" group-title="Basarabia",NTV Moldova
 https://bit.ly/3w6jGH3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://picon-13398.kxcdn.com/ntvmoldovamd.jpg" group-title="Basarabia",NTV Moldova
+https://bit.ly/3P9eKt4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://picon-13398.kxcdn.com/n4md.jpg" group-title="Basarabia",N4 Moldova
 https://bit.ly/3bv3NRd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://picon-13398.kxcdn.com/n4md.jpg" group-title="Basarabia",N4 Moldova
+https://bit.ly/3Sz0ug5
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://picon-13398.kxcdn.com/tvc21md.jpg" group-title="Basarabia",TVC 21
 https://bit.ly/3jXJHUe
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://picon-13398.kxcdn.com/noroctvmd.jpg" group-title="Basarabia",Noroc TV
@@ -25,5 +29,83 @@ https://bit.ly/3w5pSiF
 https://bit.ly/3xBuw7c
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://btv.md/wp-content/uploads/2018/11/BTV.png" group-title="Basarabia",Bălți TV
 https://hls.btv.md/hls/live2.m3u8
+#EXTINF:1,U TV
+https://bit.ly/3Aq2soY
+#EXTINF:1,Zona M
+https://bit.ly/3fTnvZl
+#EXTINF:1,Busuioc TV
+https://bit.ly/3AzTeH5
+#EXTINF:1,Favorit TV
+https://bit.ly/2X7aQvg
+#EXTINF:1,Elita TV (Rezina)
+https://bit.ly/3lRpVvu
+#EXTINF:1,Sor TV (Soroca)
+https://bit.ly/3lQqfKN
+#EXTINF:1,Studio L (Causeni)
+https://bit.ly/2VHhBUl
+#EXTINF:1,Drochia TV
+https://bit.ly/3yIOXk8
+#EXTINF:1,TV Prim (Glodeni)
+https://bit.ly/3Cz9kCp
+#EXTINF:1,Media TV (Cimislia)
+https://bit.ly/3xCis5N
+#EXTINF:1,Canal Regional
+https://bit.ly/3xDt9om
+#EXTINF:1,Minimax HD
+https://bit.ly/3BXBTLQ
+#EXTINF:1,Gurinel TV HD
+https://bit.ly/3Qq8wWH
+#EXTINF:1,PRO 2
+https://bit.ly/3iDm0jX
+#EXTINF:1,National TV
+https://bit.ly/37zK1Ca
+#EXTINF:1,TV 6 HD
+https://bit.ly/3A6rf4r
+#EXTINF:1,GRT
+https://bit.ly/3yG6CbZ
+#EXTINF:1,REN Moldova HD
+https://bit.ly/3SBNC8M
+#EXTINF:1,Canal 5 HD
+https://bit.ly/3p5i3aa
+#EXTINF:1,ITV Moldova
+https://bit.ly/3A5KcEd
+#EXTINF:1,Agro TV Moldova
+https://bit.ly/3CD70KE
+#EXTINF:1,Orhei TV HD
+https://bit.ly/3vNAFyY
+#EXTINF:1,Cotidianul TV - CTV
+https://bit.ly/3jFSNnz
+#EXTINF:1,PEH TV HD
+https://bit.ly/3bEmrtm
+#EXTINF:1,RTR Moldova HD
+https://bit.ly/3Qp2nKo
+#EXTINF:1,Kanal D
+https://bit.ly/3bH07PZ
+#EXTINF:1,TVR Moldova
+https://bit.ly/3AtP2sf
+#EXTINF:1,Noroc TV HD
+https://bit.ly/3bBpMJM
+#EXTINF:1,TVC 21
+https://bit.ly/3bBAbVN
+#EXTINF:1,PRO TV Chisinau HD
+https://bit.ly/3BLADLN
+#EXTINF:1,Accent TV
+https://bit.ly/3bByhVo
+#EXTINF:1,Moldova 1 HD
+https://bit.ly/3QrfOJJ
+#EXTINF:1,Primul in Moldova HD
+https://bit.ly/3bGdsYO
+#EXTINF:1,Canal 2 HD
+https://bit.ly/3PmzIox
+#EXTINF:1,Canal 3 HD
+https://bit.ly/3bErNF6
+#EXTINF:1,Publika TV HD
+https://bit.ly/3JHf2q2
+#EXTINF:1,Moldova 2 HD
+https://bit.ly/3St1hPH
+#EXTINF:1,Jurnal TV HD
+https://bit.ly/3desEgj
+#EXTINF:1,Prime HD
+https://bit.ly/3zJvbq2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/pp/planeta_tv_hd.png" group-title="Basarabia",PLANETA HD
 https://fr1.glebul.com/hls/hd-planeta-hd/index.m3u8?e=1665001097&hash=MRhcRyH2S6OUG4sE6KG0Rw
