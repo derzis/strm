@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="TV8" tvg-name="TV8" tvg-logo="https://tv8.md/wp-content/uploads/2020/07/logo-tv8-new-2.png" group-title="Basarabia",TV8
 https://live1.cdn.tv8.md/TV7/tracks-v1a1/mono.m3u8?token=9d28198e594206a879ce0b77b9a715040de9042c
+#EXTINF:-1 tvg-id="TV8" tvg-name="TV8" tvg-logo="https://tv8.md/wp-content/uploads/2020/07/logo-tv8-new-2.png" group-title="Basarabia",TV8
+https://bit.ly/3jF7jw4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.arax.md/assets/channels/280.png" group-title="Basarabia",Publika TV
 https://livebeta.publika.md/LIVE/P/1000.m3u
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://picon-13398.kxcdn.com/moldova1md.jpg" group-title="Basarabia",Moldova 1
@@ -8,7 +10,7 @@ https://stream.trm.md/static/streaming-playlists/hls/dd7acba9-2151-4415-8751-5d0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://picon-13398.kxcdn.com/moldova2md.jpg" group-title="Basarabia",Moldova 2
 https://stream.trm.md/static/streaming-playlists/hls/7d4704a4-71c9-4eab-b1dc-6dd56449b7e2/0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://picon-13398.kxcdn.com/jurnaltvmd.jpg" group-title="Basarabia",Jurnal TV
-https://live.cdn.jurnaltv.md/JurnalTV_HD/index.m3u8?token=e091fb32a968590f1c4db1b566ba490f50abc815
+https://bit.ly/3desEgj
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://picon-13398.kxcdn.com/jurnaltvmd.jpg" group-title="Basarabia",Jurnal TV
 https://bit.ly/3BNdG7D
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://picon-13398.kxcdn.com/ntvmoldovamd.jpg" group-title="Basarabia",NTV Moldova
